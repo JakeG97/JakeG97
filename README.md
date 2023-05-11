@@ -1,5 +1,5 @@
 <div>
-  <h2>
+  <h2 align="center">
     Hello world. I'm Jake!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
