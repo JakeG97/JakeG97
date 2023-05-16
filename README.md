@@ -15,7 +15,7 @@
 </div>
 <div>
   <h3>
-    I am a (soon to be!) graduate from AppAcademy and a Full Stack Developer  
+    I am a graduate from AppAcademy and a Full Stack Developer  
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h3>
 </div>
